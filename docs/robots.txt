@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://lacodea.github.io/lakotalefler_blog/sitemap.xml
+Sitemap: http://wonderingabroad.com/sitemap.xml

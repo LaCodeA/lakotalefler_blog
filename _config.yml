@@ -1,7 +1,9 @@
 locale: "en-US"
 title: Lakota Lefler
-url: "https://lacodea.github.io"
-baseurl: "/lakotalefler_blog"
+url: "http://wonderingabroad.com"
+baseurl: ""
+# url: "https://lacodea.github.io"
+# baseurl: "/lakotalefler_blog"
 google_analytics_key: ""
 destination: "docs"
 
