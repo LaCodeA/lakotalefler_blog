@@ -1,8 +1,9 @@
 locale: "en-US"
 title: Lakota Lefler
-url: "http://wonderingabroad.com"
+url: "https://lacodea.github.io/lakotalefler_blog/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
+destination: "docs"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
