@@ -1,7 +1,7 @@
 locale: "en-US"
 title: Lakota Lefler
-url: "https://lacodea.github.io/lakotalefler_blog/"
-baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://lacodea.github.io/"
+baseurl: "lakotalefler_blog"
 google_analytics_key: ""
 destination: "docs"
 
